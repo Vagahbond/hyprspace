@@ -6,8 +6,8 @@ I learnt to do some graphic programming specifically for this occasion.
 
 This plugin exists for the sole purpose of crushing the competition on a ricing competition themed with space.
 
-https://github.com/Vagahbond/hyprspace/assets/56230065/ba61c0d0-2a91-48a0-afe0-41398caaeca4
 
+https://github.com/Vagahbond/hyprspace/assets/56230065/25303391-2d53-4d92-a50d-1d42126b9d74
 
 
 Performace is incredibly bad(although it displays fluidly on my screen) and the codebase is an absolute joke.
