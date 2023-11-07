@@ -6,7 +6,9 @@ I learnt to do some graphic programming specifically for this occasion.
 
 This plugin exists for the sole purpose of crushing the competition on a ricing competition themed with space.
 
-![hyprspace action](./assets/video.mp4)
+https://github.com/Vagahbond/hyprspace/assets/56230065/ba61c0d0-2a91-48a0-afe0-41398caaeca4
+
+
 
 Performace is incredibly bad(although it displays fluidly on my screen) and the codebase is an absolute joke.
 
